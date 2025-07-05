@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Areeba Khan 👩‍💻</h1>
+<h1 align="center">Hi, I'm aribamahar👩‍💻</h1>
 
 <p align="center">
 Final Year Computer Science Student | Flutter & AI Enthusiast | Open Source Contributor
@@ -37,10 +37,10 @@ Final Year Computer Science Student | Flutter & AI Enthusiast | Open Source Cont
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/areebakhan)  
-- 📧 Email: areeba.dev@gmail.com  
-- 🌐 Portfolio: *coming soon...*
+- [LinkedIn](https://www.linkedin.com/in/ariba-mahar-163367352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 📧 Email: areebamahar89@gmail.com
+  
 
 ---
 
-> “Technology is best when it brings people together.” – Matt Mullenweg
+> “Technology is best when it brings people together. 
